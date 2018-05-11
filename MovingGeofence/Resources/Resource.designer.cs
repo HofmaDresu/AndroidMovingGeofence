@@ -357,23 +357,23 @@ namespace MovingGeofence
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0b0017
-			public const int action0 = 2131427351;
+			// aapt resource value: 0x7f0b0016
+			public const int action0 = 2131427350;
+			
+			// aapt resource value: 0x7f0b0013
+			public const int action_container = 2131427347;
+			
+			// aapt resource value: 0x7f0b001a
+			public const int action_divider = 2131427354;
 			
 			// aapt resource value: 0x7f0b0014
-			public const int action_container = 2131427348;
-			
-			// aapt resource value: 0x7f0b001b
-			public const int action_divider = 2131427355;
+			public const int action_image = 2131427348;
 			
 			// aapt resource value: 0x7f0b0015
-			public const int action_image = 2131427349;
+			public const int action_text = 2131427349;
 			
-			// aapt resource value: 0x7f0b0016
-			public const int action_text = 2131427350;
-			
-			// aapt resource value: 0x7f0b0025
-			public const int actions = 2131427365;
+			// aapt resource value: 0x7f0b0024
+			public const int actions = 2131427364;
 			
 			// aapt resource value: 0x7f0b0005
 			public const int adjust_height = 2131427333;
@@ -390,32 +390,32 @@ namespace MovingGeofence
 			// aapt resource value: 0x7f0b000f
 			public const int blocking = 2131427343;
 			
-			// aapt resource value: 0x7f0b0018
-			public const int cancel_action = 2131427352;
+			// aapt resource value: 0x7f0b0017
+			public const int cancel_action = 2131427351;
 			
-			// aapt resource value: 0x7f0b0020
-			public const int chronometer = 2131427360;
+			// aapt resource value: 0x7f0b001f
+			public const int chronometer = 2131427359;
 			
 			// aapt resource value: 0x7f0b000c
 			public const int dark = 2131427340;
 			
-			// aapt resource value: 0x7f0b0027
-			public const int end_padder = 2131427367;
+			// aapt resource value: 0x7f0b0026
+			public const int end_padder = 2131427366;
 			
 			// aapt resource value: 0x7f0b0010
 			public const int forever = 2131427344;
 			
-			// aapt resource value: 0x7f0b0022
-			public const int icon = 2131427362;
+			// aapt resource value: 0x7f0b0021
+			public const int icon = 2131427361;
 			
-			// aapt resource value: 0x7f0b0026
-			public const int icon_group = 2131427366;
+			// aapt resource value: 0x7f0b0025
+			public const int icon_group = 2131427365;
 			
 			// aapt resource value: 0x7f0b0008
 			public const int icon_only = 2131427336;
 			
-			// aapt resource value: 0x7f0b0021
-			public const int info = 2131427361;
+			// aapt resource value: 0x7f0b0020
+			public const int info = 2131427360;
 			
 			// aapt resource value: 0x7f0b0011
 			public const int italic = 2131427345;
@@ -429,11 +429,8 @@ namespace MovingGeofence
 			// aapt resource value: 0x7f0b0001
 			public const int line3 = 2131427329;
 			
-			// aapt resource value: 0x7f0b001a
-			public const int media_actions = 2131427354;
-			
-			// aapt resource value: 0x7f0b0013
-			public const int myButton = 2131427347;
+			// aapt resource value: 0x7f0b0019
+			public const int media_actions = 2131427353;
 			
 			// aapt resource value: 0x7f0b0007
 			public const int none = 2131427335;
@@ -441,26 +438,26 @@ namespace MovingGeofence
 			// aapt resource value: 0x7f0b0012
 			public const int normal = 2131427346;
 			
-			// aapt resource value: 0x7f0b0024
-			public const int notification_background = 2131427364;
-			
-			// aapt resource value: 0x7f0b001d
-			public const int notification_main_column = 2131427357;
+			// aapt resource value: 0x7f0b0023
+			public const int notification_background = 2131427363;
 			
 			// aapt resource value: 0x7f0b001c
-			public const int notification_main_column_container = 2131427356;
+			public const int notification_main_column = 2131427356;
 			
-			// aapt resource value: 0x7f0b0023
-			public const int right_icon = 2131427363;
+			// aapt resource value: 0x7f0b001b
+			public const int notification_main_column_container = 2131427355;
 			
-			// aapt resource value: 0x7f0b001e
-			public const int right_side = 2131427358;
+			// aapt resource value: 0x7f0b0022
+			public const int right_icon = 2131427362;
+			
+			// aapt resource value: 0x7f0b001d
+			public const int right_side = 2131427357;
 			
 			// aapt resource value: 0x7f0b0009
 			public const int standard = 2131427337;
 			
-			// aapt resource value: 0x7f0b0019
-			public const int status_bar_latest_event_content = 2131427353;
+			// aapt resource value: 0x7f0b0018
+			public const int status_bar_latest_event_content = 2131427352;
 			
 			// aapt resource value: 0x7f0b0002
 			public const int text = 2131427330;
@@ -468,8 +465,8 @@ namespace MovingGeofence
 			// aapt resource value: 0x7f0b0003
 			public const int text2 = 2131427331;
 			
-			// aapt resource value: 0x7f0b001f
-			public const int time = 2131427359;
+			// aapt resource value: 0x7f0b001e
+			public const int time = 2131427358;
 			
 			// aapt resource value: 0x7f0b0004
 			public const int title = 2131427332;
